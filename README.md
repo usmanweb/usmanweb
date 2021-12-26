@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usman Nazir, PhD student at University of Leeds, UK
-- 👀 I’m interested in Computer Vision with Deep Learning.
-- 🌱 I’m currently learning Graph Neural Networks (GNNs).
+- 👀 I’m interested in Computer Vision with Geometric Deep Learning.
+- 🌱 I’m currently working on Graph Neural Networks (GNNs).
 - 💞️ I’m looking to collaborate on Image Classification Tasks using GNNs.
 - 📫 How to reach me scun@leeds.ac.uk
 
